@@ -1,0 +1,2 @@
+100,Honda,Civic,true,civic.png,EV,lorem ipsum,lorem ipsum dominae,0;2025-05-09;2025-05-16;1
+300,Porsche,Super,true,super.png,Nitro,lorem ipsum,lorem ipsum dominae,2;2025-05-21;2025-06-01;3
